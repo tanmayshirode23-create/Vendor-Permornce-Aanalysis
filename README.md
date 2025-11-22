@@ -37,4 +37,5 @@ It identifies low-performing vendors and provides actionable insights to improve
 ---
 
 
+<img width="1430" height="802" alt="Snapshot Of Dashboard (2)" src="https://github.com/user-attachments/assets/d43c0d08-4857-4403-bad9-a5f1e65a3f61" />
 
